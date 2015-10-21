@@ -31,3 +31,7 @@ body {
   width: 100%;
   display: block;
 }
+
+header {
+  background-color: lightgrey;
+}
