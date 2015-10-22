@@ -35,3 +35,8 @@ body {
 header {
   background-color: lightgrey;
 }
+
+.nav {
+  list-style: none;
+  direction: none;
+}
