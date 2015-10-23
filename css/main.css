@@ -53,11 +53,14 @@ a {
 }
 
 
-@media only screen and (min-width: 38em) {
+@media only screen and (min-width: 28em) {
 
-  h1 {
+   h1 {
     text-align: left;
   }
+}
+
+@media only screen and (min-width: 38em) {
 
   li {
     display: inline-block;
