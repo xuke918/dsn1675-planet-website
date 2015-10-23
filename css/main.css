@@ -23,8 +23,8 @@ body {
 }
 
 .gutter {
-  padding-left: 3rem;
-  padding-right: 3rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .img-flex {
@@ -36,7 +36,17 @@ header {
   background-color: lightgrey;
 }
 
-.nav {
+ul{
   list-style: none;
-  direction: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+@media only screen and (min-width: 25em) {
+
+  li {
+    display: inline-block;
+  }
 }
