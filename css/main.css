@@ -40,6 +40,10 @@ ul{
   list-style: none;
 }
 
+ul li {
+  padding-left: 0;
+}
+
 a {
 	text-decoration: none;
 }
