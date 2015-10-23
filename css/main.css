@@ -52,17 +52,13 @@ a {
 	text-decoration: none;
 }
 
-@media only screen and (min-width: 25em) {
-
-
-
-}
 
 @media only screen and (min-width: 38em) {
 
   h1 {
     text-align: left;
   }
+
   li {
     display: inline-block;
   }
