@@ -40,11 +40,11 @@ h1 {
   text-align: center;
 }
 
-ul {
-  list-style: none;
+.list {
+  list-style-type: none;
 }
 
-ul li {
+ul, li {
   padding: 0;
 }
 
@@ -54,14 +54,15 @@ a {
 
 @media only screen and (min-width: 25em) {
 
-  h1 {
-    text-align: left;
-  }
+
 
 }
 
 @media only screen and (min-width: 38em) {
 
+  h1 {
+    text-align: left;
+  }
   li {
     display: inline-block;
   }
