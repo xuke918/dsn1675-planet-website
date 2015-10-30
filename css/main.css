@@ -32,17 +32,22 @@ body {
   display: block;
 }
 
-header {
+.masthead {
   background-color: lightgrey;
 }
 
-main {
+.section-mid {
   background-color: #eeeeee;
 }
 
 .info {
   background-color: #e2e2e2;
 }
+
+.section {
+  background-color: #e2e2e2;
+}
+
 
 
 h1 {
