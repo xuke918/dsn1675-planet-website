@@ -40,13 +40,14 @@ h1 {
   text-align: center;
 }
 
-.list {
+figure {
+  margin: 0;
+}
+
+.nav {
   list-style-type: none;
 }
 
-ul, li {
-  padding: 0;
-}
 
 a {
 	text-decoration: none;
