@@ -82,12 +82,6 @@ nav a:hover {
   background-color: #cbcbcb;
 }
 
-@media only screen and (min-width: 28em) {
-
-   h1 {
-    text-align: left;
-  }
-}
 
 @media only screen and (min-width: 38em) {
 
