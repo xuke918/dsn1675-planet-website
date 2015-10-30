@@ -36,6 +36,10 @@ header {
   background-color: lightgrey;
 }
 
+main {
+  background-color: #eeeeee;
+}
+
 h1 {
   text-align: center;
 }
@@ -48,16 +52,25 @@ dd {
   margin: 0;
 }
 
-
 .nav {
   list-style-type: none;
+  padding: 0;
 }
-
 
 a {
-	text-decoration: none;
+  text-decoration: none;
+  display: block;
+  color: #297ccc;
 }
 
+nav a:hover {
+  background-color: #297ccc;
+  color: #fff;
+}
+
+.footer {
+  background-color: #cbcbcb;
+}
 
 @media only screen and (min-width: 28em) {
 
@@ -71,6 +84,5 @@ a {
   li {
     display: inline-block;
   }
-
 
 }
