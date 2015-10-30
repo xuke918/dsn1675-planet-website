@@ -44,6 +44,11 @@ figure {
   margin: 0;
 }
 
+dd {
+  margin: 0;
+}
+
+
 .nav {
   list-style-type: none;
 }
