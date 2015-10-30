@@ -50,9 +50,6 @@ body {
 
 
 
-h1 {
-  text-align: center;
-}
 
 figure {
   margin: 0;
@@ -62,10 +59,6 @@ dd {
   margin: 0;
 }
 
-.nav {
-  list-style-type: none;
-  padding: 0;
-}
 
 a {
   text-decoration: none;
@@ -88,17 +81,7 @@ nav a:hover {
 }
 
 
-@media only screen and (min-width: 25em) {
 
-.masthead .nav {
-text-align: center;
-}
-
-.nav li{
-display: inline-block;
-}
-
-}
 
 
 @media only screen and (min-width: 38em) {
