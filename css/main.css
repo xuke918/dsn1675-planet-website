@@ -87,7 +87,7 @@ nav a:hover {
 }
 
 
-@media only screen and (min-width: 25em) {
+@media only screen and (min-width: 38em) {
 
   li {
     display: inline-block;
