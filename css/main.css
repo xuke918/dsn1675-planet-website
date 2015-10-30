@@ -77,6 +77,10 @@ nav a:hover {
   background-color: #297ccc;
   color: #fff;
 }
+.nav a.current {
+  background-color: #0074D9;
+  color: #fff;
+}
 
 .footer {
   background-color: #cbcbcb;
