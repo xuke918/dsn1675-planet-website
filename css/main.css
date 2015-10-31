@@ -67,6 +67,7 @@ a {
 }
 
 nav a:hover {
+  display: block;
   background-color: #297ccc;
   color: #fff;
 }
