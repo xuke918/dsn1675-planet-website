@@ -82,6 +82,15 @@ a.current {
 }
 
 
+@media only screen and (min-width: 25em) {
+
+  li {
+    display: inline-block;
+  }
+
+}
+
+
 
 
 
